@@ -1,2 +1,2 @@
 # My python experience
-Learing python. New
+Learing python. New one 
